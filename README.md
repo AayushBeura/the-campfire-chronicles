@@ -112,8 +112,8 @@ cd campfire-chronicles-dev
 
 ## 🔗 Related Repositories
 
-- **Executable Release**: [Campfire Chronicles - Releases](https://github.com/yourusername/campfire-chronicles-releases)
-- **Documentation**: [Campfire Chronicles - Docs](https://github.com/yourusername/campfire-chronicles-docs)
+- **Executable Release**: [Campfire Chronicles - Releases](https://github.com/AayushBeura/the-campfire-chronicles-user)
+- **Detailed Post**: [Dev.to Post]([https://github.com/yourusername/campfire-chronicles-docs](https://dev.to/aayushbeura04/the-campfire-chronicles-how-we-created-dynamic-storytelling-with-gemini-and-murf-tts-apis-2j7n))
 
 **Note**: This is the development repository containing source code and Unity project files. For pre-built executables and releases, please visit the linked releases repository.
 
